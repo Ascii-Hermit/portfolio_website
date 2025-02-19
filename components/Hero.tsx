@@ -33,7 +33,8 @@ const Hero = () => {
             words="Transforming ideas into Code"
           ></TextGenerateEffect>
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:2xl:">
-            Hey there! I&apos;m Christie, a software enthusiast based in India
+            Hey there! I&apos;m Christie, a software enthusiast from MIT,
+            Manipal
           </p>
           <a href="#about">
             <MagicButton
